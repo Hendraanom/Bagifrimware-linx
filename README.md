@@ -1,0 +1,2 @@
+# Bagifrimware-linx
+safelinx blog
